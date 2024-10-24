@@ -3,7 +3,7 @@ from captcha.audio import AudioCaptcha
 
 def generate_random_captcha(length=6):
     characters = '1234567890'
-    captcha_text = ''.join(random.choice(characters, k=length))
+    captcha_text = ''.join(random.choices(characters, k=length))
     
     return captcha_text
 
