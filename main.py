@@ -14,6 +14,6 @@ print(f"Generated CAPTCHA text:", captcha_text)
 audio_captcha = audio.generate(captcha_text)
 audio.write(captcha_text, 'Audio_Captcha.wav')
 
-print(f"Audio CAPTCHA generated: Audio_Captcha.wav")
+print(f"Audio CAPTCHA generated succesfully: Audio_Captcha.wav")
 
 
