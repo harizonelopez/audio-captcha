@@ -1,6 +1,6 @@
-﻿# Audio CAPTCHA
+﻿# Audio CAPTCHA Project
 
-**Audio CAPTCHA** is a Python-based project application designed to generate captcha codes in audio format. This project aims to enhance accessibility for visually impaired users and add an additional layer of security to websites and applications.
+**Audio CAPTCHA** is a project having both backend and frontend Python-based application designed to generate captcha codes in audio format. This project aims to enhance accessibility for visually impaired users and add an additional layer of security to websites and applications.
 
 
 ## Features
